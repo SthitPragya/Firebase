@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="name">  Name of Student</string>
+    <string name="class_of_the_student">  Class of the Student</string>
+</resources>
